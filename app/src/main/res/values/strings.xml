@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LP3_EP3_RojasPaL</string>
+    <string name="action_settings">Settings</string>
+    <string name="skip">Bienvenido XD</string>
+    <color name="rojo_sos">#FF004E</color>
+    <color name="rojo_ripple">#A60039</color>
+</resources>
